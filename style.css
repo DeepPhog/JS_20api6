@@ -1,0 +1,26 @@
+.cont {
+    display: inline-block;
+    border: 2px solid black;
+    text-align: center;
+    width: 500px;
+}
+
+.reset {
+    background-color: black;
+    color: white;
+    margin: 5px;
+}
+
+.reset:hover {
+    cursor: pointer;
+    border: 2px solid gray;
+}
+
+img {
+    width: 100px;
+    margin: 10px;
+}
+
+#mynt:hover, #kron:hover {
+    cursor: pointer;
+}
